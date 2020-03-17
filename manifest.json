@@ -1,0 +1,38 @@
+{
+  "name": "Pengembaranesia",
+  "short_name": "pengembaranesia",
+  "start_url": "https://pengembaranesia.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "Segala sesuatu yang perlu dan ingin kamu ketahui bisa kamu dapatkan informasinya disini.",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-5H13bc6jg9w/XnB9cmtGCBI/AAAAAAAAAA8/Z7BgAP5u_A8U9-2HgK1joUZ4jfxW5bu2gCLcBGAsYHQ/s48/pengembaranesia.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5H13bc6jg9w/XnB9cmtGCBI/AAAAAAAAAA8/Z7BgAP5u_A8U9-2HgK1joUZ4jfxW5bu2gCLcBGAsYHQ/s72/pengembaranesia.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5H13bc6jg9w/XnB9cmtGCBI/AAAAAAAAAA8/Z7BgAP5u_A8U9-2HgK1joUZ4jfxW5bu2gCLcBGAsYHQ/s96/pengembaranesia.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5H13bc6jg9w/XnB9cmtGCBI/AAAAAAAAAA8/Z7BgAP5u_A8U9-2HgK1joUZ4jfxW5bu2gCLcBGAsYHQ/s144/pengembaranesia.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5H13bc6jg9w/XnB9cmtGCBI/AAAAAAAAAA8/Z7BgAP5u_A8U9-2HgK1joUZ4jfxW5bu2gCLcBGAsYHQ/s168/pengembaranesia.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5H13bc6jg9w/XnB9cmtGCBI/AAAAAAAAAA8/Z7BgAP5u_A8U9-2HgK1joUZ4jfxW5bu2gCLcBGAsYHQ/s192/pengembaranesia.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://1.bp.blogspot.com/-5H13bc6jg9w/XnB9cmtGCBI/AAAAAAAAAA8/Z7BgAP5u_A8U9-2HgK1joUZ4jfxW5bu2gCLcBGAsYHQ/s512/pengembaranesia.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
